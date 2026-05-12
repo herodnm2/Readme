@@ -18,41 +18,25 @@
 
 ---
 
-# ~/fastfetch
+# ~/Setup
 
 ```console
 > fastfetch
 
-OS         : Linux
-WM         : Niri
-Shell      : fish
+OS         : Linux (Void)
 Editor     : Neovim
 Languages  : C++, Java
 Focus      : Android Native Development
-Toolkit    : JNI / OpenGL / ImGui
+Toolkit    : JNI / OpenGL 
 ```
 
 ---
-
-# ~/about_me
-
-```cpp
-    std::string languages[4] = {
-        "C++",
-        "Java",
-        "JNI",
-        "OpenGL"
-    };
 
     void working_on() {
         std::cout << "Android native projects" << std::endl;
     }
 };
 ```
-
----
-
-# ~/tech_stack
 
 <div align="center">
 
