@@ -9,9 +9,6 @@
 <div align="center">
 
 <img src="https://img.shields.io/badge/OS-Linux-11111b?style=for-the-badge&logo=linux"/>
-<img src="https://img.shields.io/badge/WM-Niri-11111b?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Editor-Neovim-11111b?style=for-the-badge&logo=neovim"/>
-<img src="https://img.shields.io/badge/Shell-zsh-11111b?style=for-the-badge&logo=gnu-bash"/>
 <img src="https://img.shields.io/badge/Focus-Android_Native-11111b?style=for-the-badge&logo=android"/>
 
 </div>
@@ -20,8 +17,7 @@
 
 # ~/Setup
 
-```console
-> fastfetch
+```
 
 OS         : Linux (Void)
 Editor     : Neovim
