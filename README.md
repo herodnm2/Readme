@@ -14,11 +14,8 @@
 </div>
 
 ```
-OS         : Linux (Void)
 Editor     : Neovim
 Languages  : C++, Java
-Focus      : Android Native Development
-Toolkit    : JNI / OpenGL
 ```
 
 <div align="center">
