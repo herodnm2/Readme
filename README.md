@@ -18,20 +18,11 @@
 # ~/Setup
 
 ```
-
 OS         : Linux (Void)
 Editor     : Neovim
 Languages  : C++, Java
 Focus      : Android Native Development
-Toolkit    : JNI / OpenGL 
-```
-
----
-
-    void working_on() {
-        std::cout << "Android native projects" << std::endl;
-    }
-};
+Toolkit    : JNI / OpenGL
 ```
 
 <div align="center">
